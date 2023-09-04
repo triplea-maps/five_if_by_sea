@@ -1,0 +1,5 @@
+map_name: five_if_by_sea
+games:
+- game_name: 5 If By Sea
+  file_name: five_if_by_sea.xml
+version: 0
